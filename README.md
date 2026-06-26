@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## I am an aspiring software engineer with hands-on experience in robotics through FRC 2151 Monty Pythons. My primary interest is in programming and software development, where I have worked on building and improving robot code, while also independently learning web development and gaining experience in CAD design through coursework. In addition, I have been exposed to mechanical design, electrical systems, and overall system integration, which has helped me better understand how software connects with real-world hardware. Through these experiences, I’ve developed strong problem-solving skills, adaptability, and the ability to collaborate effectively in team environments. I enjoy learning new technologies, writing efficient code, and turning ideas into practical, functional systems.
 <!--
 **chrisriv10/chrisriv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
