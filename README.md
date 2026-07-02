@@ -50,7 +50,7 @@ Features include:
 - System auditing
 - Process monitoring
 - Firewall checks
-- Privacy-focused security tools
+- Privacy-focused security and maintenance tools
 
 Built with:
 `Electron` `Node.js` `JavaScript` `ClamAV`
@@ -80,6 +80,6 @@ I'm always looking to:
 ## 📫 Connect With Me
 
 - Website: [Personal Website](https://chrisriv10.github.io/)
-- GitHub: [@chrisriv10](https://github.com/chrisriv10)
+- GitHub: [@chrisriv10](https://github.com/chrisriv10) (your on it.)
 
 ---
