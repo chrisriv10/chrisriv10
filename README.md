@@ -11,7 +11,7 @@
     alt="username:"
   />
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&color=60A5FA&center=false&vCenter=true&width=160&lines=chrisriv10"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&color=90D5FF&center=false&vCenter=true&width=160&lines=chrisriv10"
     alt="chrisriv10"
   />
 </p>
@@ -36,20 +36,10 @@ aspiring software engineer
   />
 </p>
 
-```txt
-Programming
-├── Java
-├── JavaScript
-├── Python
-└── HTML / CSS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,nodejs,electron,git,github,vscode&theme=light" />
+</p>
 
-Software Development
-├── Git & GitHub
-├── Node.js
-├── Electron
-├── Web Development
-└── Application Development
-```
 ---
 <p align="center">
   <img
