@@ -28,7 +28,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=90D5FF&center=true&vCenter=true&width=500&lines=☁️+aspiring+software+engineer;💻+open+source+contributor" />
 </p>
----
 
 <p align="center">
   <img
@@ -38,7 +37,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,nodejs,electron,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,cpp,lua,js,python,html,css,nodejs,electron,git,github,vscode&theme=light" />
 </p>
 
 ---
@@ -49,25 +48,32 @@
   />
 </p>
 
-<img src="https://github.com/chrisriv10/chrisriv10/blob/main/soteriosPromo3%20(1).png">
-<p><img src="https://github.com/chrisriv10/Soterios/blob/main/assets/toast-wordmark.png" width="25%">
+<p align="center">
+  <img src="https://github.com/chrisriv10/chrisriv10/blob/main/soteriosPromo3%20(1).png" width="100%">
 </p>
 
-> Open-source, local-first Windows desktop security and maintenance application.
+<p align="center">
+  <img src="https://github.com/chrisriv10/Soterios/blob/main/assets/toast-wordmark.png" width="250">
+</p>
 
-**Features**
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=1&pause=9999999999&color=FFFFFF&center=true&vCenter=true&width=720&lines=Local-first+Windows+security+%26+maintenance+suite"
+    alt="Local-first Windows security & maintenance suite"
+  />
+</p>
 
-- Malware scanning
-- System auditing
-- Process monitoring
-- Firewall checks
-- Privacy-focused security and maintenance tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Malware%20Scanning-90D5FF?style=for-the-badge&labelColor=1F2937">
+  <img src="https://img.shields.io/badge/System%20Auditing-90D5FF?style=for-the-badge&labelColor=1F2937">
+  <img src="https://img.shields.io/badge/Process%20Monitoring-90D5FF?style=for-the-badge&labelColor=1F2937">
+  <img src="https://img.shields.io/badge/Firewall%20Checks-90D5FF?style=for-the-badge&labelColor=1F2937">
+  <img src="https://img.shields.io/badge/Privacy%20Focused-90D5FF?style=for-the-badge&labelColor=1F2937">
+</p>
 
-**Built with**
-
-```txt
-Electron • Node.js • JavaScript • HTML • CSS
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=electron,nodejs,js,html,css&theme=light">
+</p>
 ---
 <p align="center">
   <img
@@ -76,8 +82,15 @@ Electron • Node.js • JavaScript • HTML • CSS
   />
 </p>
 
-- Website → [https://chrisriv10.github.io/](https://chrisriv10.github.io/)
-- GitHub → [https://github.com/chrisriv10](https://github.com/chrisriv10)
+<p align="center">
+  <a href="https://chrisriv10.github.io/">
+    <img src="https://img.shields.io/badge/Website-90D5FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+
+  <a href="https://github.com/chrisriv10">
+    <img src="https://img.shields.io/badge/GitHub-90D5FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 <p align="center">
