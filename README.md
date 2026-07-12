@@ -1,85 +1,89 @@
-# Hey, I'm Chris 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=90D5FF&text=chris&fontColor=FFFFFF&fontSize=100"
+    width="100%"
+  />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Robotics+%7C+Software+%7C+Systems+Builder;&center=true&width=500&height=50">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=1&pause=9999999999&color=FFFFFF&center=false&vCenter=true&width=150&lines=username:"
+    alt="username:"
+  />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&color=60A5FA&center=false&vCenter=true&width=160&lines=chrisriv10"
+    alt="chrisriv10"
+  />
 </p>
 
 ---
 
-## About Me
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=about&fontColor=FFFFFF&fontSize=45&fontAlign=8&fontAlignY=30"
+    width="100%"
+  />
+</p>
 
-I'm an aspiring software engineer passionate about building software, solving problems, and creating systems that connect the digital and physical world.
-
-My journey started through robotics with **FRC Team 2151 Monty Pythons**, where I gained hands-on experience developing robot software, working with hardware systems, and collaborating with a team to design and build competition-ready solutions.
-
-Beyond robotics, I enjoy exploring software development, learning new technologies, and turning ideas into practical projects — from desktop applications to web development and automation tools.
-
-I’m especially interested in:
-- 💻 Software engineering
-- 🤖 Robotics & automation
-- 🛠️ System design and integration
-- 🌐 Web development
-- ⚡ Building useful tools and applications
+aspiring software engineer
 
 ---
 
-## 🧠 What I Work With
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=stack&fontColor=FFFFFF&fontSize=45&fontAlign=7&fontAlignY=30"
+    width="100%"
+  />
+</p>
 
-### Programming
-- Java
-- JavaScript
-- Python
-- HTML/CSS
+```txt
+Programming
+├── Java
+├── JavaScript
+├── Python
+└── HTML / CSS
 
-### Software Development
-- Git & GitHub
-- Node.js
-- Electron
-- Web development
-- Application development
-
+Software Development
+├── Git & GitHub
+├── Node.js
+├── Electron
+├── Web Development
+└── Application Development
+```
 ---
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=featured%20project&fontColor=FFFFFF&fontSize=45&fontAlign=21&fontAlignY=30"
+    width="100%"
+  />
+</p>
 
-## Featured Project
+### Soterios
 
-### 🛡️ Soterios
-Open-source, local-first desktop security and maintenance toolkit.
+> Open-source, local-first Windows desktop security and maintenance application.
 
-Features include:
+**Features**
+
 - Malware scanning
 - System auditing
 - Process monitoring
 - Firewall checks
 - Privacy-focused security and maintenance tools
 
-Built with:
-`Electron` `Node.js` `JavaScript` `ClamAV`
+**Built with**
 
+```txt
+Electron • Node.js • JavaScript • ClamAV
+```
 ---
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=connect&fontColor=FFFFFF&fontSize=45&fontAlign=11&fontAlignY=30"
+    width="100%"
+  />
+</p>
 
-## 📈 Currently Learning
-
-- Advanced software architecture
-- Backend development
-- Cybersecurity concepts
-- Cloud technologies
-- Improving code quality and scalability
-
----
-
-## 🎯 Goals
-
-I'm always looking to:
-- Build meaningful software
-- Learn from experienced developers
-- Contribute to open-source projects
-- Turn ideas into working products
-
----
-
-## 📫 Connect With Me
-
-- Website: [Personal Website](https://chrisriv10.github.io/)
-- GitHub: [@chrisriv10](https://github.com/chrisriv10) (your on it.)
+- Website → [https://chrisriv10.github.io/](https://chrisriv10.github.io/)
+- GitHub → [https://github.com/chrisriv10](https://github.com/chrisriv10)
 
 ---
