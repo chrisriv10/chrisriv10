@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=90D5FF&text=chris&fontColor=FFFFFF&fontSize=100"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=90D5FF&text=chris&fontColor=FFFFFF&fontSize=100&fontAlignY=40"
     width="100%"
   />
 </p>
@@ -78,7 +78,7 @@ Electron • Node.js • JavaScript • ClamAV
 ---
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=connect&fontColor=FFFFFF&fontSize=45&fontAlign=11&fontAlignY=30"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=connect&fontColor=FFFFFF&fontSize=45&fontAlign=10&fontAlignY=30"
     width="100%"
   />
 </p>
