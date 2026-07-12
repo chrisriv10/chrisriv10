@@ -1,3 +1,6 @@
+<!-- =============== -->
+<!-- HEADER SECTION 
+<!-- =============== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=200&color=90D5FF&text=chris&fontColor=FFFFFF&fontSize=100&fontAlignY=40"
@@ -18,6 +21,9 @@
 
 ---
 
+<!-- ============== -->
+<!-- ABOUT SECTION 
+<!-- ============== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=about&fontColor=FFFFFF&fontSize=45&fontAlign=8&fontAlignY=30"
@@ -29,6 +35,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=90D5FF&center=true&vCenter=true&width=500&lines=☁️+aspiring+software+engineer;💻+open+source+contributor" />
 </p>
 
+<!-- ============= -->
+<!-- STACK SECTION 
+<!-- ============= -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=stack&fontColor=FFFFFF&fontSize=45&fontAlign=7&fontAlignY=30"
@@ -41,6 +50,9 @@
 </p>
 
 ---
+<!-- ========================= -->
+<!-- FEATURED PROJECT SECTION 
+<!-- ========================= -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=featured%20project&fontColor=FFFFFF&fontSize=45&fontAlign=21&fontAlignY=30"
@@ -74,7 +86,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=electron,nodejs,js,html,css&theme=light">
 </p>
+
 ---
+<!-- ================ -->
+<!-- CONNECT SECTION 
+<!-- ================ -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=connect&fontColor=FFFFFF&fontSize=45&fontAlign=10&fontAlignY=30"
@@ -93,6 +109,9 @@
 </p>
 
 ---
+<!-- ============== -->
+<!-- STATS SECTION 
+<!-- ============== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=stats&fontColor=FFFFFF&fontSize=45&fontAlign=7&fontAlignY=30"
@@ -110,6 +129,15 @@
     height="170"
   />
 </p>
+<p>
+  <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisriv10&bg_color=00000000&color=90D5FF&line=90D5FF&point=FFFFFF&area=true&hide_border=true">
+</p>
+</p>
+
+<!-- =============== -->
+<!-- FOOTER SECTION 
+<!-- =============== -->
 <p align="center">
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90D5FF&section=footer"
