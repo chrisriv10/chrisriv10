@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=90D5FF&center=true&vCenter=true&width=500&lines=☁️+aspiring+software+engineer;💻+open+source+contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=90D5FF&center=true&vCenter=true&width=500&lines=☁️+aspiring+software+engineer;💻+open+source+contributor" />
 </p>
 
 <!-- ============= -->
@@ -59,13 +59,14 @@
     width="100%"
   />
 </p>
-
 <p align="center">
+<a href="https://github.com/chrisriv10/Soterios">
   <img src="https://github.com/chrisriv10/chrisriv10/blob/main/soteriosPromo3%20(1).png" width="100%">
-</p>
+</a>
 
-<p align="center">
-  <img src="https://github.com/chrisriv10/Soterios/blob/main/assets/toast-wordmark.png" width="250">
+<a href="https://github.com/chrisriv10/Soterios">
+    <img src="https://github.com/chrisriv10/Soterios/blob/main/assets/toast-wordmark.png" width="250" href="https://github.com/chrisriv10/Soterios">
+</a>
 </p>
 
 <p align="center">
@@ -139,6 +140,7 @@
 <!-- FOOTER SECTION 
 <!-- =============== -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chrisriv10&style=for-the-badge&color=90D5FF">
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=150&color=90D5FF&section=footer"
  width="100%"/>
