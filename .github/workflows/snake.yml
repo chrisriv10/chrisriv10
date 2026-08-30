@@ -30,8 +30,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-light.svg?color_snake=90D5FF&color_dot_15=90D5FF&color_dot_16=90D5FF
-            dist/snake-dark.svg?palette=github-dark&color_snake=90D5FF&color_dot_15=90D5FF&color_dot_16=90D5FF
+            dist/snake-light.svg?color_snake=%2390D5FF&color_dots=%23eaf6ff,%23b3e4ff,%2390D5FF,%2350b4e8,%231e8fbf
+            dist/snake-dark.svg?palette=github-dark&color_snake=%2390D5FF&color_dots=%231a1f2e,%231e4d6b,%23286890,%2390D5FF,%23c8eeff
 
       # Push the generated files to the "output" branch so the README
       # can reference them via a raw GitHub URL without cluttering main.
