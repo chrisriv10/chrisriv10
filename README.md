@@ -136,6 +136,25 @@
 </p>
 </p>
 
+<!-- ============= -->
+<!-- SNAKE SECTION 
+<!-- ============= -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=90D5FF&text=contributions&fontColor=FFFFFF&fontSize=45&fontAlign=17&fontAlignY=30"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/chrisriv10/chrisriv10/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chrisriv10/chrisriv10/output/snake-light.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/chrisriv10/chrisriv10/output/snake-light.svg" width="100%" />
+  </picture>
+</p>
+
+---
 <!-- =============== -->
 <!-- FOOTER SECTION 
 <!-- =============== -->
