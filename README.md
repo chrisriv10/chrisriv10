@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,lua,js,python,html,css,nodejs,electron,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,cpp,lua,js,ts,python,html,css,nodejs,electron,kotlin,godot,docker,postgres,gradle,git,github,vscode&theme=light" />
 </p>
 
 ---
