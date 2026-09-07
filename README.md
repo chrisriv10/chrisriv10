@@ -61,7 +61,7 @@
   <a href="https://vite.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite" /></a>&nbsp;&nbsp;
   <a href="https://www.electronjs.org/" title="Electron"><img src="https://skillicons.dev/icons?i=electron&theme=light" alt="Electron" /></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" /></a>&nbsp;&nbsp;
-  <a href="https://socket.io/" title="Socket.IO"><img src="https://skillicons.dev/icons?i=socketio&theme=light" alt="Socket.IO" /></a>&nbsp;&nbsp;
+  <a href="https://socket.io/" title="Socket.IO"><img src="https://skills-icons.vercel.app/api/icons?i=socketio&theme=light" alt="Socket.IO" /></a>&nbsp;&nbsp;
   <a href="https://threejs.org/" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs&theme=light" alt="Three.js" /></a>&nbsp;&nbsp;
   <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></a>&nbsp;&nbsp;
   <a href="https://godotengine.org/" title="Godot"><img src="https://skillicons.dev/icons?i=godot&theme=light" alt="Godot" /></a>
