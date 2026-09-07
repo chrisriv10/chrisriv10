@@ -46,7 +46,36 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,lua,js,ts,python,html,css,nodejs,electron,kotlin,godot,docker,postgres,gradle,git,github,vscode&theme=light&perline=9" />
+  <a href="https://openjdk.org/" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org/" title="Rust"><img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" /></a>
+</p>
+
+<p align="center">
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" /></a>&nbsp;&nbsp;
+  <a href="https://vite.dev/" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite" /></a>&nbsp;&nbsp;
+  <a href="https://www.electronjs.org/" title="Electron"><img src="https://skillicons.dev/icons?i=electron&theme=light" alt="Electron" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" title="Express"><img src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" /></a>&nbsp;&nbsp;
+  <a href="https://socket.io/" title="Socket.IO"><img src="https://skillicons.dev/icons?i=socketio&theme=light" alt="Socket.IO" /></a>&nbsp;&nbsp;
+  <a href="https://threejs.org/" title="Three.js"><img src="https://skillicons.dev/icons?i=threejs&theme=light" alt="Three.js" /></a>&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin" /></a>&nbsp;&nbsp;
+  <a href="https://godotengine.org/" title="Godot"><img src="https://skillicons.dev/icons?i=godot&theme=light" alt="Godot" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=light" alt="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite" /></a>&nbsp;&nbsp;
+  <a href="https://gradle.org/" title="Gradle"><img src="https://skillicons.dev/icons?i=gradle&theme=light" alt="Gradle" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://docs.github.com/en/actions" title="GitHub Actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=light" alt="GitHub Actions" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></a>
 </p>
 
 ---
